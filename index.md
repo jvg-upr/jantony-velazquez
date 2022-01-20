@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Initial page
+Suscipit aut non doloribus est unde labore maxime earum. Laboriosam reprehenderit sed maxime libero nulla tempore. 
+Numquam hic et odit dolores sed vel ex porro. Blanditiis autem maxime omnis odio quasi. Sequi et nobis voluptas saepe fugiat.
 
-You can use the [editor on GitHub](https://github.com/jvg-upr/jantony-velazquez/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* Deleniti
+* velit
+* harum
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Example code
+```scheme
+(define msg "Hello, World!")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(define (hello-world)
+  (display msg))
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+(hello-world)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jvg-upr/jantony-velazquez/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
