@@ -1,4 +1,3 @@
-# Jantony Velazquez Gauthier
 ## Who Am I?
 My name is Jantony Velazquez Gauthier and I'm a 21 year old Computer Science student
 studying in the University of Puerto Rico. My intests are little bit all over the place
