@@ -1,3 +1,5 @@
+# Jantony Velazquez Gauthier
+
 ## Who Am I?
 My name is Jantony Velazquez Gauthier and I'm a 21 year old Computer Science student
 studying in the University of Puerto Rico. My intests are little bit all over the place
@@ -7,6 +9,12 @@ but generally I am facinated by ingeniously and simple solutions to complex prob
 My ideal job is a job that allows me to grow and learn continuosly so that I can
 confidently say I am a better computer scientists/programmer this week than I was 
 last week.
+
+## Resume
+WIP - need to link to it
+
+## contact info
+WIP
 
 ## Projects
 
@@ -146,9 +154,3 @@ fn main() {
 ### [rlife](https://github.com/jvg-upr/rlife)
 a gui implementation of conways game of life written in rust, overengineered but it was
 done as an exercise to cram as many rust features in as little space as possible.
-
-## Resume
-WIP
-
-## contact info
-WIP
